@@ -1,5 +1,5 @@
 // write all your solution here. 
-
+/////////////////////////////////////////////////////////////////////////
 function question1(input){
     return Array.isArray(input);
 
@@ -9,11 +9,21 @@ console.log(answer1);
 
 answer1 = question1([1, 2, 4, 0]);
 console.log(answer1);
-/*
-function question2(){
+/////////////////////////////////////////////////////////////////////////////
+function question5(input){
+
+    return input.filter((item)=>{
+        if(item>0)
+            return item;
+    });
+
 
 }
+let answer5=question5([-4, 3, 2, -21, 1]);
+console.log(answer5);
 
+
+/*
 function question3(){
 
 }
