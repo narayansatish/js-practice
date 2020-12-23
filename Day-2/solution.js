@@ -9,6 +9,13 @@ console.log(answer1);
 
 answer1 = question1([1, 2, 4, 0]);
 console.log(answer1);
+///////////////////////////////
+function question4(input){
+    return input.map((item)=>Math.ceil(item));
+
+}
+let answer4=question4([1.5, 2.56, 5.1, 12.33]);
+console.log(answer4);
 /////////////////////////////////////////////////////////////////////////////
 function question5(input){
 
@@ -21,7 +28,7 @@ function question5(input){
 }
 let answer5=question5([-4, 3, 2, -21, 1]);
 console.log(answer5);
-
+//////////////////////////////////////////////////////////////////////
 
 /*
 function question3(){
