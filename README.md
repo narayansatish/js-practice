@@ -6,7 +6,7 @@ Follow the timeline and solve question given daily and update the status column 
 | Day       | Date      | Status        |
 |:---:      |:---:      |:---:          |
 |Day 1      | 21 Dec    | COMPLETED     |
-|Day 2      | 22 Dec    | Pending       |
+|Day 2      | 22 Dec    | COMPLETED     |
 |Day 3      | 23 Dec    | Pending       |
 |Day 4      | 24 Dec    | Pending       |
 |Day 5      | 25 Dec    | Pending       |
